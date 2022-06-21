@@ -21,6 +21,7 @@ Some of these common text mining techniques include:
 1. Information retrieval
 2. Natural language processing (NLP)
 3. Information extraction
+4. Text summarization
 
 Data mining: Data mining is the process of identifying patterns and extracting useful insights from big data sets. ext mining is essentially a sub-field of 
 data mining as it focuses on bringing structure to unstructured data and analyzing it to generate novel insights.
