@@ -11,8 +11,8 @@ Before you can apply different text mining techniques, you must start with **tex
 text data into a usable format. This practice is a core aspect of natural language processing (NLP) and it usually involves the **use of techniques** such as 
 1. language identification, 
 2. tokenization, 
-3. part-of-speech tagging, c
-4. hunking, and 
+3. part-of-speech tagging,
+4. chunking 
 5. syntax parsing to format data appropriately for analysis. 
 
 When text preprocessing is complete, you can apply **text mining** algorithms to derive insights from the data. 
